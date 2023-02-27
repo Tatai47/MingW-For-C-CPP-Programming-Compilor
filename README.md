@@ -1,4 +1,4 @@
-# MingW-For-C-CPP-Programming-Compilor
+# How to install ?
 MingW-For-C-CPP-Programming-Compilor
 download and install this compilor then
 select your location where you want to install.

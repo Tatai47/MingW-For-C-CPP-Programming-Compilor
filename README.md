@@ -1,7 +1,7 @@
 # How to install ?
 MingW-For-C-CPP-Programming-Compilor </br>
-<h2>Click here to Download C & C++ compilor -></h2>
-<a href="https://github.com/Tatai47/MingW-For-C-CPP-Programming-Compilor/archive/refs/heads/main.zip">DOWNLOAD</a> </br>
+<h2>Click here to Download C & C++ compilor -><a href="https://github.com/Tatai47/MingW-For-C-CPP-Programming-Compilor/archive/refs/heads/main.zip">DOWNLOAD</a></h2>
+ </br>
 download and install this compilor then
 select your location where you want to install.
 
